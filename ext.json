@@ -9,7 +9,7 @@
   "download_url": "https://github.com/PASSK3YS/protonic/archive/refs/tags/v1.0.zip",
   "marketing_url": "https://github.com/PASSK3YS/protonic",
   "latest_url": "https://raw.githubusercontent.com/PASSK3YS/protonic/refs/tags/1.0/ext.json",
-  "thumbnail_url": "https://cdn.jsdelivr.net/gh/PASSK3YS/protonic@refs/heads/main/dde4646d-eb8a-4a1a-ae4f-229c4b05963d.jpeg",
+  "thumbnail_url": "https://cdn.jsdelivr.net/gh/PASSK3YS/protonic@refs/tags/1.0/dde4646d-eb8a-4a1a-ae4f-229c4b05963d.jpeg",
   "dock_icon": {
     "type": "circle",
     "background_color": "#c4bcf9",
