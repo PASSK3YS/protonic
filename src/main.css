@@ -67,6 +67,13 @@
 /*--sn-stylekit-passive-color-6: #6c58f1;				/* No noted effect 
   --sn-stylekit-passive-color-super-light: #c4bcf9;			/* No noted effect */
  
+ /*--sn-stylekit-accessory-tint-color-1: #E5E5CB;
+  --sn-stylekit-accessory-tint-color-2: #E5E5CB;         /* These are the editor icon colours
+  --sn-stylekit-accessory-tint-color-3: #E5E5CB;
+  --sn-stylekit-accessory-tint-color-4: #E5E5CB;
+  --sn-stylekit-accessory-tint-color-5: #E5E5CB;
+  --sn-stylekit-accessory-tint-color-6: #E5E5CB; */
+ 
   --navigation-item-selected-background-color: var(--sn-stylekit-background-color);
 }
 
