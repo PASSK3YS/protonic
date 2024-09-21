@@ -1,0 +1,19 @@
+{
+  "identifier": "net.colfer.protonic",
+  "name": "Protonic",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "Proton inspired theme for Standard Notes",
+  "url": "",
+  "download_url": "",
+  "marketing_url": "https://github.com/PASSK3YS/protonic",
+  "latest_url": "",
+  "thumbnail_url": "",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#c4bcf9",
+    "foreground_color": "#201a47",
+    "border_color": "#191438"
+  }
+}
